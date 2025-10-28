@@ -1,5 +1,3 @@
----
-
 # 🧬 CBC LSTM Autoencoder — Complete Blood Count Anomaly Detection
 
 > **Project Type:** AI / Deep Learning
